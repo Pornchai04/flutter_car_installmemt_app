@@ -1,16 +1,7 @@
 # flutter_car_installmemt_app
 
-A new Flutter project.
+<img width="250" src="https://github.com/user-attachments/assets/f8e9b6ce-c8da-4a27-a028-3df48ae0e993" />
 
-## Getting Started
+<img width="250" src="https://github.com/user-attachments/assets/2f54bdd6-acd4-4238-bcb8-a4e6dcea8d61" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="250" src="https://github.com/user-attachments/assets/9f08f27c-5f95-44d5-afcd-6c543898b2fc" />
