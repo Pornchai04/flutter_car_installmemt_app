@@ -1,0 +1,31 @@
+name: flutter_car_installmemt_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0" #ตรงนี้ที่แก้ใหม่
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+#ตั้งค่า Package ที่น่าจะต้องใช้ประจำในทุกโปรเจ็กต์
+  google_fonts: ^7.0.2
+  font_awesome_flutter: ^10.12.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+
+  uses-material-design: true
+#ตั้งค่าตำแหน่งรูปภาพ
+  assets :
+    - assets/images/
